@@ -1,0 +1,9 @@
+{
+  "name": "first-application",
+  "version": "1.0.0",
+  "description": "first application",
+  "main": "index.js",
+  "repository": "https://github.com/jmcarizon/practicevue.git",
+  "author": "jmcarizon <jhonmcarizon@gmail.com>",
+  "license": "MIT"
+}
